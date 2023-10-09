@@ -1,7 +1,5 @@
 # Pokemon.json
 
-### The data can be queried using [pokemon-api](https://github.com/Purukitto/pokemon-api)
-
 [![API](https://img.shields.io/badge/API-Active-green)](https://github.com/Purukitto/pokemon-api)
 ![Current Generation](https://img.shields.io/badge/Generation-Updating_to_VIII-red)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/12aa5fbacc55418a9f5fc783a3c20469)](https://app.codacy.com/manual/purukitto/pokemon-data.json?utm_source=github.com&utm_medium=referral&utm_content=Purukitto/pokemon-data.json&utm_campaign=Badge_Grade_Dashboard)
@@ -43,8 +41,8 @@ All Pokemon types with effectiveness data
 <hr>
 
 ## Contributors
-<a href="https://github.com/Purukitto/pokemon-data.json/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Purukitto/pokemon-data.json" />
+<a href="https://github.com/reezayn/pokemon-data.json/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=reezayn/pokemon-data.json" />
 </a>
 
 ## Copyright Notice
